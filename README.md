@@ -1,1 +1,1 @@
-# Global-Water-Use-and-Effects
+# Global Water Use and Effects
