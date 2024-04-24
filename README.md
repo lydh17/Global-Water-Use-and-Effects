@@ -9,4 +9,4 @@
 #### The other subset focuses on global agricultural water withdrawal and its drain on total renewable resources and is linked here: [Agriculture Water Use Subset](Datasets/agriculturalwater.csv)
 ## **Data Visualizations**
 #### The dependency ratios on renewable water resources differ across the world. In some areas, populations require these resources to have enough water to drink, grow crops, and keep areas clean. The following chart, made through [DataWrapper](https://app.datawrapper.de/select/map), displays the different ratios of dependency across the globe. 
-#### ![alt-text](Data Visualizations/DependencyRatioGraph.png)
+#### ![alt-text](DataVisualizations/DependencyRatioGraph.png)
