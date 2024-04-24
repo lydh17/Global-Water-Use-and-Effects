@@ -12,4 +12,4 @@
 #### ![alt-text](Visualizations/DependencyRatioGraph.png)
 #### The second subset regarding agricultural management suggests a problem among a few countries struggling with water scarcity and highly dependent on renewable water resources. Countries such as Egypt, Sudan, and Uzbekistan greatly rely on renewable water but use high percentages of their renewable water in agriculture.
 #### ![alt-text](Visualizations/AgriculturalWithdrawalGraph.png)
-#### These datasets allow for further analysis of the effect of agricultural practices on water resources and the importance of consistent access to clean water across the globe.
+#### These datasets allow for further analysis of the effect of agricultural practices on water resources and the importance of consistent access to clean water across the globe. These datasets are recent and relevant as they take data from 2020 and include most of the world's countries.
