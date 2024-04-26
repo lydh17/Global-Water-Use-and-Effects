@@ -10,7 +10,7 @@
 ## **Data Visualizations**
 #### The dependency ratios on renewable water resources differ across the world. In some areas, populations require these resources to have enough water to drink, grow crops, and keep areas clean. The following chart, made through [DataWrapper](https://app.datawrapper.de/select/map), displays the different dependency ratios across the globe. 
 #### ![alt-text](Visualizations/DependencyRatioGraph.png)
-#### The second subset regarding agricultural management suggests a problem among a few countries struggling with water scarcity and highly dependent on renewable water resources. Countries such as Egypt, Sudan, and Uzbekistan greatly rely on renewable water but use high percentages of their renewable water in agriculture.
+#### The second subset regarding agricultural management suggests a problem among a few countries struggling with water scarcity and highly dependent on renewable water resources. Countries such as Egypt, Sudan, and Uzbekistan greatly rely on renewable water but use high percentages of their renewable water in agriculture. The following visualization was also created with [DataWrapper](https://app.datawrapper.de/select/map).
 #### ![alt-text](Visualizations/AgriculturalWithdrawalGraph.png)
 ## **Potential**
 #### These datasets allow for further analysis of the effect of agricultural practices on water resources and the importance of consistent access to clean water across the globe. These datasets are recent and relevant as they take data from 2020 and include almost every country. Patterns between economy, wealth, and sanitation can all be studied with the help of this repository.
