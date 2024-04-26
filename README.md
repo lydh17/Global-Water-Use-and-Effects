@@ -1,6 +1,6 @@
 # **Global Water Use and Effects**
 ## **Introduction and Origin**
-#### "The Global Water Use and Effects" repository utilizes data from AQUASTAT, an information system created by the Food and Agriculture Organization of the United Nations that looks into water resources and agricultural management. 
+#### "The Global Water Use and Effects" repository utilizes data from AQUASTAT, an information system created by the Food and Agriculture Organization of the United Nations that investigates water resources and agricultural management. 
 #### The [AQUASTAT Site](https://data.apps.fao.org/aquastat/?lang=en) has several different variables one can access to make large datasets. To create the exact dataset used in this repository, select the following variables: Environment and Health, Water Use, Water Resources, World, and 2020. This repository can be used to find links between water resources, uses, and the resulting impacts around the globe, providing insight into the causes of water scarcity and possible ways to help diminish global dehydration.
 ## **Contents**
 #### The global water use repository contains an original CSV file filled with data provided by AQUASTAT. This data ranges from global water resource usage to water resource impact. Access to this original file can be found with this link: [Original AQUASTAT Data Set](Datasets/AquastatOriginalData.csv)
